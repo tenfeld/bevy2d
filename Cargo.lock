@@ -363,6 +363,7 @@ name = "bevy2d"
 version = "0.1.0"
 dependencies = [
  "bevy",
+ "bevy_feathers",
 ]
 
 [[package]]
